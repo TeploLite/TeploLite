@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m interested in **Web Development and Internet of Things**
 
-- 🌱 I’m currently learning **UI/UX Design and 3D Design**
+- 🌱 I’m currently learning **Web Development and Mobile App Development**
 
 - 📫 Feel free to reach me **naufalfawwazi0@gmail.com**
 
