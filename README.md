@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TeploLite/](https://github.com/TeploLite/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/152bkJqRV8OKqIlLxRNmTC1aK2o_bpqgk/view?usp=drive_link](https://drive.google.com/file/d/152bkJqRV8OKqIlLxRNmTC1aK2o_bpqgk/view?usp=drive_link)
+- 📄 Know about my experiences [https://teplolite.github.io/naufal-fawwazi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
