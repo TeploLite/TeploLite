@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TeploLite/](https://github.com/TeploLite/)
 
-- 📄 Know about my experiences [https://teplolite.github.io/naufal-fawwazi/)
+- 📄 Know about my experiences [https://naufal-fawwazi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
